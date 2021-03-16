@@ -5,6 +5,7 @@
     padding: 0;
     border: 0;
     font-family: 'Roboto', sans-serif;
+    font-weight: 600;
 }
 body {
     background-color: #f6f8f9;
@@ -38,9 +39,10 @@ nav {
     padding: 0.1% 5% 1%;
 }
 button {
-    padding: 0.5%;
+    padding: 0.8% 1.4%;
     border-radius: 10%;
     border: 1px solid #c5cbd0;
+    font-size: 10px;
 }
 #leftbtt {
     color: #FFFFFF;
@@ -81,7 +83,7 @@ section {
 
 /*Highlightened Text*/
 .highlight {
-    padding: 5px;
+    padding: 1%;
     border-radius: 20%;
     font-size: 10px;
     color: #FFFFFF;
